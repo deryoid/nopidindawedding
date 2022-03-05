@@ -1,0 +1,27 @@
+{
+    "background_color": "#ffffff",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "nopidindawedding.web",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "nopidindawedding.web",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/img/icon/img/icon/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/icon/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/icon/favicon.ico",
+        "type": "image/x-icon"
+      }
+    ]
+  }

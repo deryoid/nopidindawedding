@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.web.nopidindawedding.twa",
+                     "sha256_cert_fingerprints": ["5C:40:02:D3:41:0E:8C:27:D1:80:1B:2D:16:47:D3:72:86:43:78:49:C2:15:24:91:3B:2C:9E:1F:9F:2B:E4:F6"] }
+      }
+]
